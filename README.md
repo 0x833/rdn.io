@@ -1,1 +1,5 @@
 # rdn.io
+
+# Purpose
+
+# Resources
